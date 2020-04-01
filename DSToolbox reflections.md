@@ -13,6 +13,17 @@ This is how she orients the readers by putting the question upfront in bold:
 
 > Is Hilary/Hillary really the most rapidly poisoned name in recorded American history? An analysis.
 
+## Main types of questions
+
+Questions can be broadly categorizes into the following six types:
+
+- Descriptive
+- Exploratory
+- Inferential
+- Predictive
+- Causal
+- Mechanistic
+
 
 ## RStudio
 
